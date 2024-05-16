@@ -35,8 +35,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/HP/OneDrive/Dokumen/GitHub/2311102159_ROHMAN/PERTEMUAN2",
-      "program": "c:/Users/HP/OneDrive/Dokumen/GitHub/2311102159_ROHMAN/PERTEMUAN2/build/Debug/outDebug",
+      "cwd": "c:/Users/HP/OneDrive/Dokumen/GitHub/2311102159_ROHMAN/PERTEMUAN3",
+      "program": "c:/Users/HP/OneDrive/Dokumen/GitHub/2311102159_ROHMAN/PERTEMUAN3/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
